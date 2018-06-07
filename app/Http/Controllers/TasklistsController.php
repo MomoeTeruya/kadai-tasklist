@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Http\Controllers\Controller;
 
-class TasksController extends Controller
+class TasklistsController extends Controller
 {
      public function index()
     {
